@@ -3,7 +3,7 @@ Academic-Papers
 
 Collection of academic papers I have authored.
 
-### [An Investigation into Noisy Language in YouTube Comments](https://github.com/revett/Academic-Papers/raw/master/An%20Investigation%20into%20Noisy%20Language%20in%20YouTube%20Comments.pdf)
+### [An Investigation into Noisy Language in YouTube Comments](https://raw.githubusercontent.com/revett/academic-papers/main/An%20Investigation%20into%20Noisy%20Language%20in%20YouTube%20Comments.pdf)
 
 ###### 2014
 ###### Supervisor: [Dr. Paul Rayson](https://twitter.com/perayson)
@@ -15,7 +15,7 @@ As the popularity of YouTube, a social video sharing platform, increases so does
 
 12,703 words.
 
-### [Automatic Text Summarization of Emails on Mobile Platforms](https://github.com/revett/Academic-Papers/blob/master/Automatic%20Text%20Summarisation%20of%20Emails%20on%20Mobile%20Platforms.pdf?raw=true)
+### [Automatic Text Summarization of Emails on Mobile Platforms](https://raw.githubusercontent.com/revett/academic-papers/main/Automatic%20Text%20Summarisation%20of%20Emails%20on%20Mobile%20Platforms.pdf)
 
 ###### 2013
 ###### Supervisor: [Dr. Paul Rayson](https://twitter.com/perayson)
